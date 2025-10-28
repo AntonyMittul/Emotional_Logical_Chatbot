@@ -1,0 +1,13 @@
+{
+  "messages": [
+    {
+      "role": "user",
+      "content": "hello there"
+    },
+    {
+      "role": "assistant",
+      "content": "Hello."
+    }
+  ],
+  "message_type": null
+}

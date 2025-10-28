@@ -3,3 +3,6 @@ langchain
 langchain-google-genai
 google-generativeai
 python-dotenv
+langgraph           # Added missing core dependency
+pydantic            # Added explicit dependency used throughout
+typing-extensions   # Added explicit dependency used throughout
